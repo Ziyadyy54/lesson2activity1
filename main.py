@@ -1,0 +1,6 @@
+print("welcome to the world of programming")
+print(2039)
+print("hello lcd display \n")
+print("pyton2345")
+print("what is going to happen next.",2331)
+print("hello how is your day going",end="😄")
